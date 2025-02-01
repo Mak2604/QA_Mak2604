@@ -1,6 +1,6 @@
-Header
+[![Header](https://github.com/Mak2604/QA_Mak2604/blob/main/QA_Mak2604.jpg)](https://t.me/makk2604)
 
-About me
+##Я в процессе создания резюме. Здесь будет информация обо мне
 
 Latest YouTube 
 
