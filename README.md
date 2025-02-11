@@ -6,4 +6,4 @@ Latest YouTube
 
 Languages and tools
 
-Follow me
+Follow me and other info
